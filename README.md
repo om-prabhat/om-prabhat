@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/0x5h4d0w.png" alt="TryHackMe">
+<!--<img src="https://tryhackme-badges.s3.amazonaws.com/0x5h4d0w.png" alt="TryHackMe">-->
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0x5h4d0w.png)
