@@ -1,5 +1,6 @@
 # 💫 About Me:
-Taking a long 6 months break.<br>Hopefully i don't forget everything.
+### Taking a long 6 months break. (Starting Sept 2025)
+### Hopefully i don't forget everything.
 
 
 ## 🌐 Socials:
